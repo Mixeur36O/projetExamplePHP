@@ -14,4 +14,3 @@
         $template = "Views/Users/inscriptionOrEditProfil.php";
         require_once("Views/base.php");
      }
-?>

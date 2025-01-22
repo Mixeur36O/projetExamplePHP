@@ -7,4 +7,3 @@
         $template = "Views/pageAccueil.php";
         require_once("Views/base.php");
     }
-?>
